@@ -1,5 +1,5 @@
 -------------------------------------------
-Русскій Словарь въ Петровскомъ Правописаніи 1708 г.
+Русскій Словарь въ Петровскомъ Правописаніи
 ===========================================
 http://slavenica.com/
 
@@ -24,7 +24,7 @@ http://www.iana.org/assignments/language-subtag-registry
 
 
 -------------------------------------------
-Russian Petrine 1708 Orthography Dictionary
+Russian Petrine Orthography Dictionary
 ===========================================
 
 See also http://slavenica.com/ for conversion from the 1918 orthography to the Petrine 1708 orthography. 
